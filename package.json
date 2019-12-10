@@ -1,7 +1,7 @@
 {
   "name": "s3-block-store",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.0-dev",
+  "description": "S3 storage for @ipld/block",
   "main": "index.js",
   "scripts": {
     "pretest": "standard",
